@@ -1,6 +1,7 @@
 # Å lese digitalt
+<img src="digLesing.jpg" width = "200px">
 
-![bok på iPad-skjerm](digLesing.jpg)
+
 Photo by <a href="https://unsplash.com/@freestocks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">freestocks</a> on <a href="https://unsplash.com/s/photos/digital-reading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 <br>
