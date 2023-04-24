@@ -19,3 +19,4 @@ Det finnes svært mange forskjellige billedbok-apper på markedet, og det kan v�
 
 ## Kilder
 - Tønnessen, E. S. & Hoel, T. (2019). Organizing Shared Digital Reading in Groups: Optimizing the 
+- en test til
