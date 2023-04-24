@@ -11,3 +11,4 @@
 - Koden skal være ryddig, effektiv og kommentert slik at den lett kan vedlikeholdes av andre utviklere. 
 - Bilder skal lagres i 1000x600.
 - Dette er en test
+- Et punkt til.
