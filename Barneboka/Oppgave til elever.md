@@ -1,7 +1,7 @@
 # Barneboka
 ## Tverrfaglig oppgave i konseptutvikling og programmering og produksjon og historiefortelling 
 
-![](illBarnebokOppg.png)
+![](illBarnebokOppg.PNG)
 
 ## Interaktiv barnebok på nett med flere mulige avslutninger 
 
