@@ -21,4 +21,5 @@ I denne oppgaven skal dere lage en barnebok som skal utformes som et nettsted. B
 
 - Minst en av sidene skal inneholde en animasjon. 
 
+ [Vurderingskriterier og kompetansemål](kriterierKompmaal.md)
  
