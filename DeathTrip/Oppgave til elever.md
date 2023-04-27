@@ -47,8 +47,13 @@ Dere skal lage:
 
 
 ## Yrkesfaglig fordypning
-- kk
-- kk
+
+Medieteknikkfaget <br>
+• gjere greie for val av faglege løysingar i ein produksjon og presentere løysingane til aktørane i eit prosjekt
+
+Mediedesignfaget <br>
+• vurdere eige arbeid og eiga rolle i prosjektarbeid og reflektere over korleis ein kan utvikle seg som prosjektmedarbeidar
+
 
 ## Vurderingskriterier
 DeathTrip er en konkurranse. Juryen kårer vinnere basert på følgende prinsipper: 
